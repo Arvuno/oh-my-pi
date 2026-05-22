@@ -161,11 +161,11 @@ full merge re-runs.
 
 ## Related
 
-- `docs/models.md` — registry, equivalence, compat flags
+- [models.md](./models.md) — registry, equivalence, compat flags
   (`supportsStrictMode`, `toolStrictMode`, `disableStrictTools`).
-- `docs/provider-streaming-internals.md` — how the normalized schemas are
+- [provider-streaming-internals.md](./provider-streaming-internals.md) — how the normalized schemas are
   used downstream during the provider stream loop.
-- `docs/mcp-server-tool-authoring.md` — MCP `inputSchema` ingestion via
+- [mcp-server-tool-authoring.md](./mcp-server-tool-authoring.md) — MCP `inputSchema` ingestion via
   `normalizeSchemaForMCP`.
 - `packages/ai/src/utils/schema/CONSTRAINTS.md` — operational contract for
   every normalization rule.
