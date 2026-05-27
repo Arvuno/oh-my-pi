@@ -54,7 +54,7 @@ mise use -g github:can1357/oh-my-pi
 
 macOS · Linux · Windows · bun ≥ 1.3.14
 
-## Every tool, _benchmaxxed_.
+## Every tool, _benchmaxed_.
 
 Edits that land on the first attempt. Reads that summarize files instead of dumping their content. Searches that return instantly. Pick any model — omp will get it right.
 
