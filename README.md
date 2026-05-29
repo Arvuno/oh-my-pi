@@ -506,3 +506,6 @@ _made for terminals that stay open_
 
 ## Contributing
 PRs welcome!
+
+<!-- Contributor: Arvuno - documentation update -->
+
